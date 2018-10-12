@@ -1,0 +1,23 @@
+.movie-container{
+    margin: auto;
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    height: 79.5vh;
+    flex-direction: column;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.movie-container::-webkit-scrollbar{
+    width: 15px;
+    height: 10px;
+}
+
+.movie-container::-webkit-scrollbar-thumb{    
+    background-color: #c2c2c2;
+}
+
+/*.movie-container::-webkit-scrollbar-button{    
+    background-color: #e2e2e2;
+}*/

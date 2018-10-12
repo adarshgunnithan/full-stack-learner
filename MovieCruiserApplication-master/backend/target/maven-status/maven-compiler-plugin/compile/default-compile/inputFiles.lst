@@ -1,0 +1,9 @@
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/service/MovieCruiserService.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/config/SwaggerConfig.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/repository/MovieCrusierRepository.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/exception/MovieAlreadyExistsException.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/service/MovieCruiserServiceImpl.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/domain/Movie.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/MoviecruiserserverapplicationApplication.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/exception/MovieNotFoundException.java
+/home/ubuntu/Desktop/ProjectWorkspace/MovieCruiserApplication/backend/src/main/java/com/stackroute/moviecruiserserverapplication/controller/MovieServiceController.java

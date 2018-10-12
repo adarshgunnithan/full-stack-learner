@@ -1,0 +1,8 @@
+.beBottom{
+    height: 8vh;
+    position: absolute;
+    bottom: 0;
+}
+.centered{     padding-left:100px;     padding-right: 100px; } 
+.fill-space{     flex:1 1 auto }
+
